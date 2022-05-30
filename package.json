@@ -6,10 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react", "javascript", "nodejs"],
+  "keywords": [
+    "react",
+    "javascript",
+    "nodejs"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
